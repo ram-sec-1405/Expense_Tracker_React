@@ -1,5 +1,5 @@
 # Expense Tracker (ReactJS)
-## Date:
+## Date:24/05/2025
 
 ## AIM
 To develop a simple Expense Tracker application using React that allows users to manage their personal finances by adding, viewing, and deleting income and expense transactions, while dynamically calculating the current balance, total income, and total expenses.
